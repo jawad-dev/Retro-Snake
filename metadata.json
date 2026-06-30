@@ -1,0 +1,6 @@
+{
+  "name": "Retro Snake",
+  "description": "A sleek, premium, modern 2D Retro Snake game with customizable speeds, sound synthesis, haptic style feedback, obstacles, and persistent local high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
